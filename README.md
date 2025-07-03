@@ -24,11 +24,12 @@ It helps security researchers find open redirect issues by injecting payloads in
  git clone https://github.com/gulmmdoff/Redirect0r.git 
  cd Redirect0r 
  pip install -r requirements.txt
+
 ```
 
 
  ## Using
  ```
- python redirect0r.py -u "https://example.com?redirect=https://test.com" -p payloads.txt
+ python Redirect0r.py -u "https://example.com?redirect=https://test.com" -p payloads.txt
 ```
 

@@ -6,12 +6,13 @@ It helps security researchers find open redirect issues by injecting payloads in
 
 
 ## ✨ Features
+```
 🔍 Automatic detection of redirect parameters
 🚀 Custom payload injection
 🧠 Rate limiting
 📁 Auto-save results per match
 ✅ Supports single URL or list of URLs
-
+```
 
 
  ## Requirements
@@ -19,7 +20,7 @@ It helps security researchers find open redirect issues by injecting payloads in
 
  
  ## Install 
- ```bash
+ ```
  git clone https://github.com/gulmmdoff/Redirect0r.git 
  cd Redirect0r 
  pip install -r requirements.txt
@@ -27,5 +28,6 @@ It helps security researchers find open redirect issues by injecting payloads in
 
 
  ## Using
+ ```
  python redirect0r.py -u "https://example.com?redirect=https://test.com" -p payloads.txt
-
+```

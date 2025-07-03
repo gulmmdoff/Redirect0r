@@ -19,9 +19,9 @@ It helps security researchers find open redirect issues by injecting payloads in
 
  
  ## Install 
- git clone https://github.com/gulmmdoff/Redirect0r.git \n
- cd Redirect0r \n 
- pip install -r requirements.txt \n
+ git clone https://github.com/gulmmdoff/Redirect0r.git 
+ cd Redirect0r 
+ pip install -r requirements.txt 
 
 
  ## Using

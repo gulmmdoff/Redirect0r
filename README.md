@@ -31,3 +31,4 @@ It helps security researchers find open redirect issues by injecting payloads in
  ```
  python redirect0r.py -u "https://example.com?redirect=https://test.com" -p payloads.txt
 ```
+![Redirect0r Screenshot](Redirector.png)
